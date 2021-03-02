@@ -3,4 +3,4 @@ A News Getting Web App That Is Made With The Help Of HTML, CSS, SCSS And JAVASCR
 
 To View My Link Visit The Website At ->
 
- https://code08-ind.github.io/Hindustan_Global_Samachar/
+ https://vigilant-ardinghelli-53d484.netlify.app/
