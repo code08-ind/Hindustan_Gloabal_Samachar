@@ -1,6 +1,6 @@
 let newsAccordion = document.getElementById('newsAccordion');
 const xhr = new XMLHttpRequest();
-xhr.open('GET', 'https://gnews.io/api/v4/top-headlines?&topic=business&country=in&lang=en&token=fc1609926229d26774785eb0847bf63e', true);
+xhr.open('GET', 'https://gnews.io/api/v4/top-headlines?&topic=business&country=in&lang=en&token=<>', true);
 
 xhr.onload = function () {
     if (this.status === 200) {
